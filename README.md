@@ -21,7 +21,7 @@
 5. Calculated total quantities sold for each product.
 6. Analyzed total quantities by product sold in each month.
 
-## Key Findings:
+## Key Findings
 
 
 
@@ -34,5 +34,5 @@
 ## Conclusion:
 
 This sales data analysis provided valuable insights into product and regional performance, highlighting areas of strength and opportunities for growth.
-## check this file for further details :
+## check this file for further details :lita project(Sales and Customer data).xlsx
 
