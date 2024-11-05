@@ -60,4 +60,14 @@ No need to include the import process or database setup in your report. Focus on
 - Highest revenue generating region
 
 
-### POWER BI VISUALIZATION 
+### POWER BI VISUALIZATION
+   This shows a detailed visuals on the fondinds carried out so far. Filters and slices are also used to 
+   Show variation. 
+
+## Measures created:
+1. Percentage of sales by product.
+2. Average monthly sales.
+3. Percentage of sales by region.
+
+## Visualization screenshot
+
