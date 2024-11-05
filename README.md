@@ -31,8 +31,33 @@
 
 [Insert screenshots or descriptions of pivot tables, charts, or graphs created]
 
-## Conclusion:
 
-This sales data analysis provided valuable insights into product and regional performance, highlighting areas of strength and opportunities for growth.
 ## check this file for further details :lita project(Sales and Customer data).xlsx
 
+### SQL REPORT 
+
+## Queries:
+
+1. Total sales by product category
+2. Sales transactions by region
+3. Highest selling product by total sales value
+4. Total revenue per product
+5. Monthly sales totals for current year
+6. Top 5 customers by product purchase amount
+7. Percentage of total sales by region
+8. Products with no sales in the last quarter (None found)
+
+ ## Queries Screenshots 
+
+No need to include the import process or database setup in your report. Focus on the queries and insights.
+
+## Key Findings:
+
+- Summary of sales performance
+- Regional sales trends
+- Product sales insights
+- Customer purchasing patterns
+- Highest revenue generating region
+
+
+### POWER BI VISUALIZATION 
