@@ -23,14 +23,27 @@
 
 ## Key Findings
 
+1. Top-selling product: Gloves (₦296,296,900)
+2. Lowest-selling product: Socks (₦180,785)
 
+# Revenue by Product:
+1. Highest revenue: Shoes (₦613,380)
+2. Lowest revenue: Socks (₦180,785)
 
+# Revenue by Region:
+1. Highest revenue: South (₦927,820)
+2. Lowest revenue: West (₦300,345)
+
+# Monthly Sales:
+1. Highest sales: February
+
+# Quantity sold by Product:
+1. Highest quantity sold: Hat
 
 
 ## Visualizations:
 
 [Insert screenshots or descriptions of pivot tables, charts, or graphs created]
-
 
 ## check this file for further details :lita project(Sales and Customer data).xlsx
 
